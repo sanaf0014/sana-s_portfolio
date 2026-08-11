@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+# 🌌 Sana Fathima | AI/ML Developer Portfolio
 
-This contains everything you need to run your app locally.
+A sleek, highly interactive, and dark-themed personal portfolio built to showcase my journey, projects, and skills as an aspiring AI/ML Developer and BSc Artificial Intelligence & Machine Learning student.
 
-View your app in AI Studio: https://ai.studio/apps/74ff345b-47b1-40f3-aea6-3e6807edbed2
+**[View Live Site](https://sana-fathima-portfolio-1.vercel.app/)** <!-- Update this once deployed -->
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+* **Interactive 3D Background:** A custom-built, interactive neural network particle background using Three.js and React Three Fiber that reacts to cursor movement.
+* **Premium Typography:** Utilizes a bespoke font pairing of **Space Grotesk** (for architectural headings) and **Plus Jakarta Sans** (for highly legible body text).
+* **Modern UI/UX:** Features glassmorphism, dynamic hover spotlights, and smooth scroll animations powered by Framer Motion.
+* **Fully Responsive:** Edge-to-edge layout that elegantly scales from ultra-wide desktop monitors down to mobile screens.
+* **Component-Driven:** Built entirely with React functional components and strict TypeScript typing for extreme maintainability.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+* **Framework:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Animations:** [Framer Motion](https://www.framer.com/motion/)
+* **3D Graphics:** [Three.js](https://threejs.org/) + [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+* **Icons:** [Lucide React](https://lucide.dev/)
